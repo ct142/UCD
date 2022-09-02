@@ -21,16 +21,18 @@ body{
 }
 
 .navbar-brand{
-    font-family: DM_Serif;
-    color: #000 !important;
-    font-size: 25px;
+    color: rgb(255, 255, 255) !important;
+    font-size: 35px;
+    font-weight: 900;
+    font-family: 'DM Serif Display', serif;
     /* background-color: rgb(70, 69, 69); */
 }
 
 .nav-link {
     padding: 0 10px !important;
     font-family: Oswald;
-    color: #000 !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight: 900;
 }
 
 .exhibition-item{
